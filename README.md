@@ -9,3 +9,6 @@ the result of building the website was successful, below you will see how well t
 ![png](/STATIC/IMAGES/date_filter.png)
 ### country filter on
 ![png](/STATIC/IMAGES/country_filter.png)
+## Summary
+A drawback from this website is that the filters are not name "friendly" meaning that if someone who did not build the website searches for "Canada" instead of "ca", or also "CA" instead of "ca", they will not find the results.
+Two recommendation for further development would be to fix the mentioned drawback by creating "if" conditions and it would also be ideal to change the colour of the table so the data can be better visualized(aesthetics)
